@@ -45,4 +45,4 @@ https://drive.google.com/file/d/1lYk3KR8GZsVbpjsuMO-VBxeXh-FCzMDH/view?usp=shari
 
 ## Example image
 
-![alt text](.Asset/example.PNG)
+<img src="Asset/exmaple.PNG">
