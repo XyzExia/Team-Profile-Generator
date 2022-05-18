@@ -196,7 +196,7 @@ function renderTeam() {
 					<div class="card" style="width: 19rem">
 						<div class="card-body">
 							<h3 class="card-title">${employees[i].name}</h3>
-							<h5 class="card-subtitle">${employees[i].getRole}</h5>
+							<h5 class="card-subtitle">${employees[i].getRole()}</h5>
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item">
 									<strong>ID:</strong> ${employees[i].id}
