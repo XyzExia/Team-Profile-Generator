@@ -45,4 +45,4 @@ https://drive.google.com/file/d/1lYk3KR8GZsVbpjsuMO-VBxeXh-FCzMDH/view?usp=shari
 
 ## Example image
 
-<img src="Asset/exmaple.PNG">
+<img src='https://github.com/XyzExia/Team-profile-generator/blob/main/Asset/example.PNG'>
